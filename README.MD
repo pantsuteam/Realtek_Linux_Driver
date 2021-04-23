@@ -27,3 +27,7 @@ sudo make install INTERFACE=all
 ```
 
 Replug your dongle and start the Bluetooth adapter. 
+
+## Known Issue
+
+Only Ubuntu is supported.
