@@ -31,3 +31,7 @@ Replug your dongle and start the Bluetooth adapter.
 ## Known Issue
 
 Only Ubuntu is supported.
+
+## Screenshot
+
+![](./screenshot.png)
